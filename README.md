@@ -1,7 +1,8 @@
 # Car MPG Analysis
 
 ### Overview
-Analysis of car data to explore factors affecting miles per gallon (mpg) using **R** and **Tableau**.
+This project was completed as part of a **Data Science course**.  
+The goal was to analyze factors affecting car fuel efficiency (miles per gallon) using **R** and **Tableau**.  
 
 ### Tools & Skills
 R • Tableau • Linear Regression • Data Cleaning • Data Visualization  
