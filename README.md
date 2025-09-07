@@ -12,6 +12,6 @@ R • Tableau • Linear Regression • Data Cleaning • Data Visualization
 - Tableau dashboards show trends in car weight, horsepower, acceleration, and mpg
 
 ### Files/Links
-[Tableau Dashboard] (http://public.tableau.com/app/profile/batsheva.isaacson/viz/AutoDataDashboard/Dashboard1)
-[R Script] (car mpg analysis.R)
-[Project Report PDF] (Car MPG Analysis.pdf)
+- [Tableau Dashboard(http://public.tableau.com/app/profile/batsheva.isaacson/viz/AutoDataDashboard/Dashboard1)
+- [R Script](car mpg analysis.R)
+- [Project Report PDF](Car MPG Analysis.pdf)
