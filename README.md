@@ -1,1 +1,14 @@
-# This is my final project for DS-210.
+# Car MPG Analysis
+
+### Overview
+Analysis of car data to explore factors affecting miles per gallon (mpg) using **R** and **Tableau**.
+
+### Tools & Skills
+R • Tableau • Linear Regression • Data Cleaning • Data Visualization  
+
+### Key Insights
+- Strong inverse relationship between **weight** and **mpg**  
+- Significant variables in reduced model: **origin, model year, weight**  
+- Tableau dashboards show trends in car weight, horsepower, acceleration, and mpg
+
+  ### Files/Links
