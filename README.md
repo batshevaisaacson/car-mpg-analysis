@@ -13,5 +13,5 @@ R • Tableau • Linear Regression • Data Cleaning • Data Visualization
 
 ### Files/Links
 [Tableau Dashboard] (http://public.tableau.com/app/profile/batsheva.isaacson/viz/AutoDataDashboard/Dashboard1)
-[R Script]
+[R Script] 
 [Project Report PDF]
