@@ -11,4 +11,4 @@ R • Tableau • Linear Regression • Data Cleaning • Data Visualization
 - Significant variables in reduced model: **origin, model year, weight**  
 - Tableau dashboards show trends in car weight, horsepower, acceleration, and mpg
 
-  ### Files/Links
+### Files/Links
